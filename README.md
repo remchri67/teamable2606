@@ -9,4 +9,4 @@ This is an application for managing user profiles
 
     npm pack
 
-Application runs on port 3000
+Application runs on port 30002
